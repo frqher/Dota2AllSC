@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" id="svg3813" viewBox="0 0 278.63 272.33" version="1.0">
+  <defs id="defs3815">
+    <linearGradient id="linearGradient3253" y2="437.46" gradientUnits="userSpaceOnUse" x2="282.11" gradientTransform="matrix(1.5082 0 0 1.5082 -200.37 -213.84)" y1="437.46" x1="252.52">
+      <stop id="stop3213" stop-color="#fff" offset="0"/>
+      <stop id="stop3215" stop-color="#fff" stop-opacity="0" offset="1"/>
+    </linearGradient>
+    <radialGradient id="radialGradient3251" gradientUnits="userSpaceOnUse" cy="433.59" cx="291.63" gradientTransform="matrix(1.5082 0 0 2.8884 -200.37 -812.31)" r="13.795">
+      <stop id="stop3203" stop-color="#fff" offset="0"/>
+      <stop id="stop3205" stop-color="#fff" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <radialGradient id="radialGradient3249" gradientUnits="userSpaceOnUse" cy="432.07" cx="277.77" gradientTransform="matrix(1.5082 0 0 4.5134 -200.37 -1517)" r="8.5">
+      <stop id="stop3185" stop-color="#85bf85" offset="0"/>
+      <stop id="stop3187" stop-color="#85bf85" stop-opacity="0" offset="1"/>
+    </radialGradient>
+    <radialGradient id="radialGradient3247" gradientUnits="userSpaceOnUse" cy="434.74" cx="260.15" gradientTransform="matrix(1.5082 0 0 2.2583 -200.37 -542.2)" r="9.0156">
+      <stop id="stop3170" stop-color="#85bf85" offset="0"/>
+      <stop id="stop3172" stop-color="#85bf85" stop-opacity="0" offset="1"/>
+    </radialGradient>
+  </defs>
+  <g id="layer1" transform="translate(-37.034 -10.974)">
+    <g id="g3239" transform="matrix(3.3828 -.54290 .54290 3.3828 -812.21 -1211.5)">
+      <path id="text2383" fill="#008000" d="m238.59 419.06l-0.71 11.01c-1.91-1.31-3.73-3.33-3.73-5.85 0-2.63 2.02-4.75 4.44-5.16m1.72 41.11l0.81-11.21c1.51 1.21 3.53 3.03 3.53 5.15 0 2.93-1.51 5.26-4.34 6.06m19.19-5.96c0-8.78-5.05-13.63-11.51-17.87 0 0-3.74-2.53-5.76-3.64l0.91-13.33c2.42 0.7 5.25 2.32 6.97 4.24l8.38-7.48c-3.23-4.34-9.19-7.87-14.44-9.09l0.4-5.65-4.55-0.41-0.4 5.56c-11.01-0.1-20.1 6.56-20.1 18.08 0 8.79 5.56 13.84 12.12 18.18 0 0 3.44 2.43 5.25 3.44l-1.01 13.83c-2.82-0.8-6.06-2.72-8.48-4.54l-6.67 10.5c3.74 3.24 9.4 6.06 14.24 6.87l-0.4 5.86 4.55 0.4 0.4-5.96c10.71-0.6 20.1-7.57 20.1-18.99"/>
+      <path id="text2387" fill="#008000" d="m224.34 451.83v-11.92h-15.15v-14.75h-12.93v14.75h-15.05v11.92h15.05v14.84h12.93v-14.84h15.15"/>
+      <path id="path2393" opacity=".9" d="m197.02 425.94v14.71h-15.03v10.4h15.04v14.85h7.02c-3.85-4-3.21-9.5-3.21-15.55 0-8.42 1.58-18.01 8.34-21.77v-2.64h-12.16z" fill="url(#radialGradient3247)"/>
+      <path id="path3176" d="m240.67 401.76l-0.43 5.52c-11.01-0.1-20.07 5.83-20.07 17.34 0 8.06 4.67 12.35 10.51 16.36-10.51-23.25 6.62-29.96 15.12-32.95-0.69-0.22-1.38-0.45-2.07-0.61l0.38-5.28-3.44-0.38zm-13.01 55.29l-5.7 8.81c3.73 3.23 8.82 5.46 13.66 6.27l-0.51 5.98 3.2 0.38 0.42-5.84c0.85-0.05 1.67-0.17 2.5-0.29-3.14-2.78-5.82-7.11-7.68-12.48-2.1-0.72-4.27-1.61-5.89-2.83z" fill="url(#radialGradient3249)"/>
+      <path id="path3191" d="m238.59 419.06l-0.71 11.01c-1.91-1.31-3.73-3.33-3.73-5.85 0-2.63 2.02-4.75 4.44-5.16m1.72 41.11l0.81-11.21c1.51 1.21 3.53 3.03 3.53 5.15 0 2.93-1.51 5.26-4.34 6.06m19.19-5.96c0-8.78-5.05-13.63-11.51-17.87 0 0-3.74-2.53-5.76-3.64l0.91-13.33c2.42 0.7 5.25 2.32 6.97 4.24l8.38-7.48c-3.23-4.34-9.19-7.87-14.44-9.09l0.4-5.65-4.55-0.41-0.4 5.56c-11.01-0.1-20.1 6.56-20.1 18.08 0 8.79 5.56 13.84 12.12 18.18 0 0 3.44 2.43 5.25 3.44l-1.01 13.83c-2.82-0.8-6.06-2.72-8.48-4.54l-6.67 10.5c3.74 3.24 9.4 6.06 14.24 6.87l-0.4 5.86 4.55 0.4 0.4-5.96c10.71-0.6 20.1-7.57 20.1-18.99" stroke="url(#radialGradient3251)" stroke-width="1.5081px" fill="none"/>
+      <path id="path3209" d="m224.34 451.83v-11.92h-15.15v-14.75h-12.93v14.75h-15.05v11.92h15.05v14.84h12.93v-14.84h15.15" stroke="url(#linearGradient3253)" stroke-width="1.5081px" fill="none"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

@@ -1,0 +1,3 @@
+Bar_font=23
+Force Stuff delay=300
+font=13

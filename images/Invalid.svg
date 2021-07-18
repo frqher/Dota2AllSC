@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://web.resource.org/cc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg2" viewBox="0 0 663 716" version="1.0">
+  <g id="g4607" fill-rule="evenodd" transform="translate(11.769 3.6147)">
+    <path id="path2768" d="m131.88 326.47c-8.84-0.12-17.28 3.67-23.07 10.34-9.68 10.86-18.098 22.87-25.029 35.81-13.862 25.9-21.75 55.58-21.75 86.88 0 101.48 82.959 184.44 184.44 184.44 50.74 0 97.06-20.69 130.41-54.03 16.67-16.68 30.15-36.54 39.5-58.63 4.45-9.92 3.19-21.48-3.3-30.21-6.49-8.72-17.2-13.25-27.98-11.84-10.79 1.42-19.96 8.57-23.98 18.68-6.29 14.86-15.4 28.28-26.68 39.56-22.56 22.56-53.46 36.47-87.97 36.47-69.02 0-124.44-55.42-124.44-124.44 0-21.28 5.28-41.11 14.63-58.56 4.67-8.73 10.38-16.84 16.93-24.19 8-8.72 10.13-21.32 5.44-32.18s-15.33-17.95-27.15-18.1z"/>
+    <path id="path1879" d="m194.94 87.624c-34.1 0-61.78 27.676-61.78 61.776-0.02 3.16 0.27 6.3 0.72 9.41 0 0.02-0.01 0.04 0 0.06l37.25 229.66c2.35 14.45 14.79 25.1 29.43 25.19l195.25 1.22 67.47 156.59c6.27 14.51 22.71 21.67 37.6 16.37l79.25-28.18c15.61-5.56 23.77-22.74 18.21-38.35-5.55-15.61-22.73-23.74-38.34-18.18l-52.75 18.78-64.06-148.78c-4.72-10.95-15.46-18.06-27.38-18.13l-189.5-1.19-2.93-18.03h134.03c10.82 0.16 20.89-5.53 26.34-14.87 5.45-9.35 5.45-20.91 0-30.25-5.45-9.35-15.52-15.03-26.34-14.88h-143.75l-10.6-65.22c30.27-3.98 53.63-29.87 53.63-61.22 0-34.1-27.65-61.776-61.75-61.776z"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Wheelchair</dc:title>
+        <dc:date>2006-11-07T03:47:47</dc:date>
+        <dc:description>Stick person in wheelchair</dc:description>
+        <dc:source>http://openclipart.org/detail/1321/wheelchair-by-wice</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Wice</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>handicap</rdf:li>
+            <rdf:li>handicapped</rdf:li>
+            <rdf:li>image</rdf:li>
+            <rdf:li>man</rdf:li>
+            <rdf:li>media</rdf:li>
+            <rdf:li>people</rdf:li>
+            <rdf:li>public domain</rdf:li>
+            <rdf:li>svg</rdf:li>
+            <rdf:li>wheelchair</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
